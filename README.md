@@ -1,5 +1,5 @@
 # a_simple_webscraper
-This repository includes a Book webscraper fro the site= https://books.toscrape.com/catalogue/category/books/self-help_41/index.html
+This repository includes a Book webscraper from the site= https://books.toscrape.com/catalogue/category/books/self-help_41/index.html
 
 Building this project learned me to apply the modules Beutifulsoup, reqeusts, csv and the datetime module to build a webscraper.
 Ive used a simple website=  https://books.toscrape.com/catalogue/category/books/self- to get around the firewalls of big websites.

@@ -1,4 +1,4 @@
-# a_simple_webscraper
+# A_Simple_Webscraper
 This repository includes a Book webscraper from the site= https://books.toscrape.com/catalogue/category/books/self-help_41/index.html
 
 Building this project learned me to apply the modules Beautifulsoup, reqeusts, csv and the datetime module to build a webscraper.
